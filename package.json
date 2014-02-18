@@ -1,7 +1,7 @@
 {
-    "name":         "selector",
+    "name":         "unopinionate",
     "description":  "A shim that finds the installed selector library.",
-    "version":      "0.0.1",
+    "version":      "0.0.2",
     "author":       "Brian Peacock",
     "main":         "src/main.js",
     "dependencies": {

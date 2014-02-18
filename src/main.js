@@ -1,3 +1,3 @@
-module.exports = function() {
-
+module.exports = {
+    selector: window.jQuery || window.Zepto || window.ender || window.$
 };
