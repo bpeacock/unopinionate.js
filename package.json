@@ -3,13 +3,11 @@
     "description":  "Unopinionated front-end libraries",
     "version":      "0.0.2",
     "author":       "Brian Peacock",
-    "main":         "src/main.js",
+    "main":         "unopinionate.js",
+    "repository":   "https://github.com/bpeacock/unopinionate.js",
     "dependencies": {
         
     },
-    "devDependencies": {
-        
-    },
     "license": "MIT",
-    "keywords": []
+    "keywords": ["unopionated", "front-end", "opinionated", "selector"]
 }
