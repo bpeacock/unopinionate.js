@@ -20,4 +20,4 @@
     else {
         root.unopinionate = unopinionate;
     }
-})(window || global);
+})(typeof window != 'undefined' ? window : global);

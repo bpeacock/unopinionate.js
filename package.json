@@ -1,7 +1,7 @@
 {
     "name":         "unopinionate",
     "description":  "Unopinionated front-end libraries",
-    "version":      "0.0.3",
+    "version":      "0.0.4",
     "author":       "Brian Peacock",
     "main":         "unopinionate.js",
     "repository":   "https://github.com/bpeacock/unopinionate.js",
